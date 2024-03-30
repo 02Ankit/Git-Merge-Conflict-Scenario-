@@ -1,6 +1,6 @@
 # create app.py
 def addition(a,b):
-    return a+b
+    return a*b
 
 addition(4,5)
 
